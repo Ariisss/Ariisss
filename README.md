@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ariisss
-- 👀 I’m interested in Mobile Development,
+- 👋 Hi, I’m Aris
+- 👀 I’m interested in Mobile & Backend Development,
 - 🌱 I’m currently learning Cloud Architecture & Machine Learning
 
 <!---
