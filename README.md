@@ -70,24 +70,7 @@ Design: Figma, Lucidchart, Canva
 
 </details>
 
-## 🏗️ Current Focus
-
-```typescript
-const currentFocus = {
-  architecture: "Designing scalable backend systems",
-  ai: "AI Engineering and intelligent system integration",
-  learning: ["Cloud Architecture", "Machine Learning", "System Design"],
-  building: "AI-powered applications that solve real problems"
-}
-```
-
 </div>
-
-## 🎯 What I'm Working On
-
-- 🏗️ **System Architecture Patterns** - Exploring microservices and event-driven architectures
-- 🤖 **AI Engineering** - Building production-ready AI-integrated backend systems  
-- 📚 **Learning** - Cloud architecture patterns, advanced ML model deployment
 
 ## 💡 Philosophy
 
