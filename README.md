@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-princeip.vercel.app-blue?style=for-the-badge&logo=vercel)](https://princeip.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-princeirp.com-blue?style=for-the-badge&logo=vercel)](https://princeirp.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince%20Isaac%20Pantino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-isaac-pantino-3600b5266/)
 [![Email](https://img.shields.io/badge/Email-pipantino.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pipantino.work@gmail.com)
 
