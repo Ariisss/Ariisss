@@ -91,3 +91,5 @@ I believe in turning complex problems into elegant, production-ready solutions. 
 <!--
 Fun fact: This README was crafted with the same attention to detail I put into my backend systems! 
 -->
+
+![](https://komarev.com/ghpvc/?username=Ariisss&color=grey)
